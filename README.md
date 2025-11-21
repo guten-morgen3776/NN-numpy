@@ -14,7 +14,7 @@
 ![20251120_154601000_iOS](https://github.com/user-attachments/assets/35482cc5-e8e2-4a85-a5a2-532c190fb72b)
 
 ## 学習結果
-mnistを用いて学習し、accuracy=0.9764を達成できた。
+mnistを用いて学習し、accuracy=0.9764を達成できた。</br>
 <img width="567" height="455" alt="Unknown-4" src="https://github.com/user-attachments/assets/70728720-4cec-4c03-9d72-f685549e443b" />
 
 ## ミスりやすいポイント
